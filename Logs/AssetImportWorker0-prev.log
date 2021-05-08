@@ -1,0 +1,441 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 7634 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Softwares\Unity\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity Project files/The Fish Master Clone
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54954
+Successfully changed project path to: E:/Unity Project files/The Fish Master Clone
+E:/Unity Project files/The Fish Master Clone
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path E:/Softwares/Unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity Project files/The Fish Master Clone/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.4531
+Initialize mono
+Mono path[0] = 'E:/Softwares/Unity/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Softwares/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Softwares/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Softwares/Unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001224 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.746 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.244 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 5.139400 ms (FindLiveObjects: 0.498400 ms CreateObjectMapping: 0.285300 ms MarkObjects: 4.029300 ms  DeleteObjects: 0.323100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/The Fish Master Assets/Sprites/collect-collectx2-buttons.png
+  artifactKey: Guid(b2c65bd098a5be7498a98df1fa6430f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/collect-collectx2-buttons.png using Guid(b2c65bd098a5be7498a98df1fa6430f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb08d551081fde1bf730fc82373f1d0') in 0.445941 seconds
+  Import took 0.492290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000695 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-1.png
+  artifactKey: Guid(7582d69a693cec8489aaca009f1bb715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-1.png using Guid(7582d69a693cec8489aaca009f1bb715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6357b224f19958fad8d165ad980a50') in 0.071262 seconds
+  Import took 0.105883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/The Fish Master Assets
+  artifactKey: Guid(23a683ea6f38a544a8743456e26d5b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets using Guid(23a683ea6f38a544a8743456e26d5b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4020597cad52588fc82b53df7d14e7ee') in 0.009748 seconds
+  Import took 0.023420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-6.png
+  artifactKey: Guid(459f0498ea885e64fbc1aaf0b1d838bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-6.png using Guid(459f0498ea885e64fbc1aaf0b1d838bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56d7080b5191416c5b07b612d61be32') in 0.054297 seconds
+  Import took 0.061762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/The Fish Master Assets/Sprites/back-2.png
+  artifactKey: Guid(65fd7a0b8be619341adeb597b87de050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/back-2.png using Guid(65fd7a0b8be619341adeb597b87de050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcc5f56354c7b54131db8f828405e02') in 0.061294 seconds
+  Import took 0.066558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/The Fish Master Assets/Sprites/Hook.png
+  artifactKey: Guid(a16b8660da85bd648808d74d9613fae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/Hook.png using Guid(a16b8660da85bd648808d74d9613fae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '447c4761a729a6df753e57332e83284e') in 0.054275 seconds
+  Import took 0.114412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/The Fish Master Assets/Sprites/back-2.png
+  artifactKey: Guid(65fd7a0b8be619341adeb597b87de050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/back-2.png using Guid(65fd7a0b8be619341adeb597b87de050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcc5f56354c7b54131db8f828405e02') in 0.175464 seconds
+  Import took 0.182119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/The Fish Master Assets/Sprites/_sprites.mat
+  artifactKey: Guid(594a52b7773c4c74d95c6f23eca0921b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/_sprites.mat using Guid(594a52b7773c4c74d95c6f23eca0921b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c75c2e425f28a974a0d3a37e60d0639') in 0.221949 seconds
+  Import took 0.272314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000577 seconds.
+  path: Assets/The Fish Master Assets/Sprites/back-3.png
+  artifactKey: Guid(e682f2ecc7720d14eb48c409bab8aba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/back-3.png using Guid(e682f2ecc7720d14eb48c409bab8aba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295712ab3130686d077574e365e9ca07') in 0.100557 seconds
+  Import took 0.116664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/The Fish Master Assets/Sprites
+  artifactKey: Guid(2e1a24140d159a6448782e1f02866c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites using Guid(2e1a24140d159a6448782e1f02866c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7af39b58a37905c4951a3b3368e63c2') in 0.029554 seconds
+  Import took 0.035742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-5.png
+  artifactKey: Guid(52927edeeef82ee4eb3e687c48b4ab6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-5.png using Guid(52927edeeef82ee4eb3e687c48b4ab6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1816287f82c3862fddb28b023b3dbf8c') in 0.052275 seconds
+  Import took 0.056916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-4.png
+  artifactKey: Guid(883d9aa9b84c03344b03b4a897d2799c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-4.png using Guid(883d9aa9b84c03344b03b4a897d2799c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaaaadbb028b55a503e6397722f37af6') in 0.044561 seconds
+  Import took 0.059223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-7.png
+  artifactKey: Guid(b7a2df0fd9d02224abd2a04fca55e779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-7.png using Guid(b7a2df0fd9d02224abd2a04fca55e779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3929613fe845b83429f8ead75e8d87a') in 0.043765 seconds
+  Import took 0.047546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/The Fish Master Assets/Sprites/ip.png
+  artifactKey: Guid(4796686d30608ff49a97e9fc42705179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/ip.png using Guid(4796686d30608ff49a97e9fc42705179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa2d7ac0adae2b2f60a322a6c320ac37') in 0.050751 seconds
+  Import took 0.068759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/The Fish Master Assets/Sprites/offline-button.png
+  artifactKey: Guid(eca186826732f174b9d52f95788ea689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/offline-button.png using Guid(eca186826732f174b9d52f95788ea689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1261914584b74a71347c50bcfe0bf270') in 0.056085 seconds
+  Import took 0.070992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/The Fish Master Assets/Sprites/_icon_512.jpg
+  artifactKey: Guid(cbd01f35d647a6d44ad610f17f769a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/_icon_512.jpg using Guid(cbd01f35d647a6d44ad610f17f769a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee1d28815b22ddd04af3fbfbb229228') in 0.043281 seconds
+  Import took 0.052385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-12.png
+  artifactKey: Guid(2fcc104b0988a164cb0a96e4d0e4707e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-12.png using Guid(2fcc104b0988a164cb0a96e4d0e4707e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6669676eb3bb77674f85fe43527ab3bb') in 0.036733 seconds
+  Import took 0.040963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/The Fish Master Assets/Sprites/BEBAS___.ttf
+  artifactKey: Guid(733df7910e31846459364da3fd92d27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/BEBAS___.ttf using Guid(733df7910e31846459364da3fd92d27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e732ace84084323d388768c46805bf3f') in 0.154705 seconds
+  Import took 0.188944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/The Fish Master Assets/Sprites/length-button.png
+  artifactKey: Guid(dc2cc2548bea80b4e8f0007dfd2cb86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/length-button.png using Guid(dc2cc2548bea80b4e8f0007dfd2cb86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c44bdf9ba5602646e10d5931db2f838') in 0.040315 seconds
+  Import took 0.043837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fisherman 1.png
+  artifactKey: Guid(0e4a9fe5013c0bc43abbb340bd481903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fisherman 1.png using Guid(0e4a9fe5013c0bc43abbb340bd481903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a755e50335b4c105f4ad00c91904fd') in 0.063177 seconds
+  Import took 0.088367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/The Fish Master Assets/Sprites/strength-button.png
+  artifactKey: Guid(3a60e999a00818a45a17d2b05f41c4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/strength-button.png using Guid(3a60e999a00818a45a17d2b05f41c4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3269a515461c1336e5f8e729c0af7c89') in 0.042287 seconds
+  Import took 0.070406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/The Fish Master Assets/Sprites/collect-button.png
+  artifactKey: Guid(69e7104643999804d8a20e777d1655ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/collect-button.png using Guid(69e7104643999804d8a20e777d1655ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5afa3ebda3839b45678860ee89071e9') in 0.206014 seconds
+  Import took 0.238103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish.png
+  artifactKey: Guid(22f36936d48668a47842013741747508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish.png using Guid(22f36936d48668a47842013741747508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8ba877d6607a63a086be31fd49ee62') in 0.056433 seconds
+  Import took 0.062905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/The Fish Master Assets/Sprites/back-main.png
+  artifactKey: Guid(21c38f02c0ea6da48a70c9a8facb7eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/back-main.png using Guid(21c38f02c0ea6da48a70c9a8facb7eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675362889f84c91c5351b432443d2abf') in 0.061396 seconds
+  Import took 0.065112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-8.png
+  artifactKey: Guid(932241b6f3a90f649bc672aaec2508fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-8.png using Guid(932241b6f3a90f649bc672aaec2508fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8efeadd8725b1a26370aa76322be04') in 0.059039 seconds
+  Import took 0.083591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-3.png
+  artifactKey: Guid(b1583a8e8a2fb124f92b80ccc713a5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-3.png using Guid(b1583a8e8a2fb124f92b80ccc713a5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44ba17a430e91cd92ccde0a8dfb56ba') in 0.030007 seconds
+  Import took 0.034735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/The Fish Master Assets/Sprites/rateus-button.png
+  artifactKey: Guid(04e46497ee3a74a478c86860270cae5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/rateus-button.png using Guid(04e46497ee3a74a478c86860270cae5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379ecba07a8634f77f1926558c95c362') in 0.046455 seconds
+  Import took 0.051722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/The Fish Master Assets/Sprites/crab.png
+  artifactKey: Guid(053c8b925c3c2104382f7fb43be05770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/crab.png using Guid(053c8b925c3c2104382f7fb43be05770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720fed6947500d0e78c216c67da6d9f4') in 0.029670 seconds
+  Import took 0.035058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-11.png
+  artifactKey: Guid(0c950cd20d0978b4087e490e53ba8f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-11.png using Guid(0c950cd20d0978b4087e490e53ba8f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48b99a5562973d5a7c43c4ff4f2f20a') in 0.045058 seconds
+  Import took 0.061973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-9.png
+  artifactKey: Guid(93567286fd654ca49b6d06fde197b197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-9.png using Guid(93567286fd654ca49b6d06fde197b197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc2eb5e46a788ad2835990c229703eaa') in 0.045794 seconds
+  Import took 0.109208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-10.png
+  artifactKey: Guid(2b47a5a6541b55345b957cf32113e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-10.png using Guid(2b47a5a6541b55345b957cf32113e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a27d19cdbd37e3d9b067a3599d8591') in 0.130620 seconds
+  Import took 0.140435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/The Fish Master Assets/Sprites/fish-2.png
+  artifactKey: Guid(707c7c4557a7df448b10cbe0191392a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/fish-2.png using Guid(707c7c4557a7df448b10cbe0191392a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '161501bdcff1be3d408f1a3ad90aa303') in 0.093446 seconds
+  Import took 0.097608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/The Fish Master Assets/Sprites/shrimp.png
+  artifactKey: Guid(2c7495adaa7597c448708a490f36af10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/shrimp.png using Guid(2c7495adaa7597c448708a490f36af10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a816ff9f131a64e1b86437f860a2690') in 0.041780 seconds
+  Import took 0.049860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/The Fish Master Assets/Sprites/lobster.png
+  artifactKey: Guid(89d83c46ad486ac4188d4ce31b5deedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Fish Master Assets/Sprites/lobster.png using Guid(89d83c46ad486ac4188d4ce31b5deedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622f84ca2a1243d25cbbd35a1c58e29d') in 0.059266 seconds
+  Import took 0.085697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20204.056199 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 1.365743 seconds
+  Import took 4.497088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.804165 seconds.
+  path: Assets/HookMovement.cs
+  artifactKey: Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HookMovement.cs using Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e4b79f2048577dc412df3146a0431b') in 1.921291 seconds
+  Import took 2.070953 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.067972 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.378 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 10.570100 ms (FindLiveObjects: 0.711000 ms CreateObjectMapping: 0.563300 ms MarkObjects: 8.713800 ms  DeleteObjects: 0.577700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24896.165200 seconds.
+  path: Assets/HookMovement.cs
+  artifactKey: Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HookMovement.cs using Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd968942bd58f2729744646a4b2f04b6') in 14.537427 seconds
+  Import took 24.362691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.173619 seconds.
+  path: Assets/HookMovement.cs
+  artifactKey: Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HookMovement.cs using Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.311321 seconds
+  ERROR: Build asset version error: assets/hookmovement.cs in SourceAssetDB has modification time of '2021-05-08T03:53:45.9698011Z' while content on disk has modification time of '2021-05-08T03:53:59.9058199Z'
+  Import took 0.315480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.439882 seconds.
+  path: Assets/HookMovement.cs
+  artifactKey: Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HookMovement.cs using Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e8ab87ddb58ffd8c9d068d2c47131a') in 0.088689 seconds
+  Import took 0.356082 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 16.211393 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 16.923 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 327.269300 ms (FindLiveObjects: 40.335600 ms CreateObjectMapping: 0.373000 ms MarkObjects: 277.119500 ms  DeleteObjects: 9.437500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 514.482617 seconds.
+  path: Assets/HookMovement.cs
+  artifactKey: Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HookMovement.cs using Guid(ecf2499c4327ff74f8fb8aec6f2f08f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f29b7eed4fbfb9ac7b4f7aad7d2a67') in 0.020465 seconds
+  Import took 0.065403 seconds .
+
