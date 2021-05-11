@@ -1,14 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
 
 public class HookMovement : MonoBehaviour
 {
     public Transform hookTransform;
     Camera mainCamera;
     public Vector2 mousePos;
-    public bool canMove = true;
-    // Start is called before the first frame update
+    public bool canMove;
+    private float length;
+    public float strength;
+
+    public Tweener cameraTween; 
     void Awake()
     {
         mainCamera = Camera.main;
@@ -26,4 +30,11 @@ public class HookMovement : MonoBehaviour
         }
         
     }
+
+    void StartFishing()
+    {
+        length = -50;
+        strength = 3;
+        float tiime = (-length) * 0.1f;
+    }    
 }
